@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-05T12:38:45.185Z'
+sourcePath: _posts/2016-08-05-batch-processing.md
+author: []
+via: {}
+dateModified: '2016-08-05T12:38:43.939Z'
+title: Batch Processing
+publisher:
+  name: 'Axel Kühn at German Wikipedia [Public domain], via Wikimedia Commons'
+  url: 'https://commons.wikimedia.org/wiki/File%3ASummerhillSchool.jpg'
 description: >-
   The modern form of education emerged at the dawn of the industrial age. The
   desire for individuals with exactly the same skills grew, and as a result
@@ -11,16 +20,7 @@ description: >-
   uniquely in order to produce the best outcome. Students who do not fit into
   the current traditional education paradigm, find themselves uncatered for by a
   system that insists they are “failing”.
-dateModified: '2016-08-05T10:40:18.426Z'
-datePublished: '2016-08-05T10:43:46.530Z'
-title: Batch Processing
-author: []
-publisher:
-  name: 'Axel Kühn at German Wikipedia [Public domain], via Wikimedia Commons'
-  url: 'https://commons.wikimedia.org/wiki/File%3ASummerhillSchool.jpg'
-via: {}
 starred: false
-sourcePath: _posts/2016-08-05-batch-processing.md
 inFeed: true
 hasPage: false
 inNav: false
