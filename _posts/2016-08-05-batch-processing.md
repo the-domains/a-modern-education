@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T12:38:45.185Z'
+datePublished: '2016-08-05T12:39:27.349Z'
 sourcePath: _posts/2016-08-05-batch-processing.md
 author: []
 via: {}
-dateModified: '2016-08-05T12:38:43.939Z'
+dateModified: '2016-08-05T12:39:26.517Z'
 title: Batch Processing
 publisher:
   name: 'Axel Kühn at German Wikipedia [Public domain], via Wikimedia Commons'
