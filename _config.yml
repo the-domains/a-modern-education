@@ -1,4 +1,3 @@
-layout_spectrum: 0.9762320031877607
 typography_spectrum: 0.4504796299152076
 color:
   brandStrength: 0.24214988481253386
@@ -11,5 +10,7 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
+layout_spectrum: 0.9762320031877607
 name: A Modern Education
 title: A Modern Education
+description: the future of education
