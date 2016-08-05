@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[A Modern Education]]></title>
         <description><![CDATA[A Modern Education]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-modern-education/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 09:38:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 09:39:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-modern-education/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's use video to reinvent education - Salman Khan]]></title>
+            <description><![CDATA[<article><h1>Let's use video to reinvent education - Salman Khan</h1><p>View full lesson: http://ed.ted.com/lessons/let-s-use-video-to-reinvent-education-salman-khan Salman Khan talks about how and why he created the remarkable Khan Academy, a carefully structured series of educational videos offering complete curricula in math and, now, other subjects.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DC58z4N0IWw</link>
+            <guid isPermaLink="false">29251c7d-d585-4ca3-8140-adf91dde037c</guid>
+            <pubDate>Fri, 05 Aug 2016 09:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Future of Learning, Networked Society - Ericsson]]></title>
-            <description><![CDATA[<article><h1>The Future of Learning, Networked Society - Ericsson</h1><p>Learn more at http://www.ericsson.com/networkedsociety Can ICT redefine the way we learn in the Networked Society? Technology has enabled us to interact, innovate and share in whole new ways. This dynamic shift in mindset is creating profound change throughout our society. The Future of Learning looks at one part of that change, the potential to redefine how we learn and educate.</p></article>]]></description>
+            <description><![CDATA[<article><h1>The Future of Learning, Networked Society - Ericsson</h1><p>Learn more at http://www.ericsson.com/networkedsociety Can ICT redefine the way we learn in the Networked Society? Technology has enabled us to interact, innovate and share in whole new ways. This dynamic shift in mindset is creating profound change throughout our society. The Future of Learning looks at one part of that change, the potential to redefine how we learn and educate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/477192d5e2e56e7d9b1f69eb2995aa46/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FquYDkuD4dMU%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=quYDkuD4dMU</link>
             <guid isPermaLink="false">6eb295ba-20e1-49ab-a9c6-00d4f6fe77ef</guid>
             <pubDate>Fri, 05 Aug 2016 09:38:09 GMT</pubDate>
