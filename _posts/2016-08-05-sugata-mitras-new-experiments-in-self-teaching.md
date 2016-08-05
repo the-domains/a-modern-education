@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-05T09:39:43.307Z'
+datePublished: '2016-08-05T12:45:48.641Z'
+sourcePath: _posts/2016-08-05-sugata-mitras-new-experiments-in-self-teaching.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dk60sYrU2RU'
 keywords:
   - duration
@@ -18,8 +19,8 @@ author:
     url: 'https://www.youtube.com/user/TEDtalksDirector'
     avatar: {}
 via: {}
-dateModified: '2016-08-05T09:39:26.748Z'
-title: Sugata Mitra's new experiments in self-teaching
+dateModified: '2016-08-05T12:45:47.502Z'
+title: Experiments in self-teaching
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=dk60sYrU2RU&feature=applinks'
     type: ios
@@ -70,7 +71,6 @@ description: >-
   could revolutionize how we think about teaching.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-05-sugata-mitras-new-experiments-in-self-teaching.md
 inFeed: true
 hasPage: false
 inNav: false
