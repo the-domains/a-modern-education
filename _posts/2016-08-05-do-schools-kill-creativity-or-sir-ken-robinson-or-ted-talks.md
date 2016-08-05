@@ -1,14 +1,8 @@
 ---
-author:
-  - name: TED
-    url: 'https://www.youtube.com/user/TEDtalksDirector'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-05T12:45:31.533Z'
+sourcePath: >-
+  _posts/2016-08-05-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=iG9CE55wbtY'
 keywords:
   - duration
   - ted
@@ -20,15 +14,14 @@ keywords:
   - robinson
   - sir
   - education
-description: >-
-  http://www.ted.com Sir Ken Robinson makes an entertaining and profoundly
-  moving case for creating an education system that nurtures (rather than
-  undermines) creativity. TEDTalks is a daily video podcast of the best talks
-  and performances from the TED Conference, where the world's leading thinkers
-  and doers are invited to give the talk of their lives in 18 minutes --
-  including speakers such as Jill Bolte Taylor, Sir Ken Robinson, Hans Rosling,
-  Al Gore and Arthur Benjamin.
-inLanguage: en
+related: []
+author:
+  - name: TED
+    url: 'https://www.youtube.com/user/TEDtalksDirector'
+    avatar: {}
+via: {}
+dateModified: '2016-08-05T12:45:30.547Z'
+title: Do Schools Kill Creativity?
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=iG9CE55wbtY&feature=applinks'
     type: ios
@@ -66,19 +59,25 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=iG9CE55wbtY'
-title: Do Schools Kill Creativity? | Sir Ken Robinson | TED Talks
-datePublished: '2016-08-05T09:39:44.696Z'
-dateModified: '2016-08-05T09:38:18.597Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Sir Ken Robinson makes an entertaining and profoundly moving case for creating
+  an education system that nurtures (rather than undermines) creativity.
+  TEDTalks is a daily video podcast of the best talks and performances from the
+  TED Conference, where the world's leading thinkers and doers are invited to
+  give the talk of their lives in 18 minutes -- including speakers such as Jill
+  Bolte Taylor, Sir Ken Robinson, Hans Rosling, Al Gore and Arthur Benjamin.
+inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-05-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiG9CE55wbtY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiG9CE55wbtY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiG9CE55wbtY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
