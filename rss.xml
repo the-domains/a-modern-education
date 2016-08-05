@@ -4,8 +4,15 @@
         <description><![CDATA[A Modern Education]]></description>
         <link>https://thegrid.ai/a-modern-education/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 12:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 12:47:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/a-modern-education/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sal Khan founder of Khan Academy]]></title>
+            <description><![CDATA[<article><h1>Sal Khan founder of Khan Academy</h1><p>Salman Khan talks about how and why he created the remarkable Khan Academy, a carefully structured series of educational videos offering complete curricula in math and, now, other subjects.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a117205e6b718ab21faf472d245bfc04/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDC58z4N0IWw%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DC58z4N0IWw</link>
+            <guid isPermaLink="false">29251c7d-d585-4ca3-8140-adf91dde037c</guid>
+            <pubDate>Fri, 05 Aug 2016 12:47:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do Schools Kill Creativity?]]></title>
             <description><![CDATA[<article><h1>Do Schools Kill Creativity?</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/08183471478e0c068708ebd16837797d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiG9CE55wbtY%2Fhqdefault.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=dk60sYrU2RU</link>
             <guid isPermaLink="false">819ce560-6b32-4a8c-8e8a-dee0fa412d5a</guid>
             <pubDate>Fri, 05 Aug 2016 12:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sal Khan founder of Khan Academy]]></title>
-            <description><![CDATA[<article><h1>Sal Khan founder of Khan Academy</h1><p>View full lesson: http://ed.ted.com/lessons/let-s-use-video-to-reinvent-education-salman-khan Salman Khan talks about how and why he created the remarkable Khan Academy, a carefully structured series of educational videos offering complete curricula in math and, now, other subjects.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a117205e6b718ab21faf472d245bfc04/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDC58z4N0IWw%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=DC58z4N0IWw</link>
-            <guid isPermaLink="false">29251c7d-d585-4ca3-8140-adf91dde037c</guid>
-            <pubDate>Fri, 05 Aug 2016 12:44:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
