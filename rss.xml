@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Modern Education]]></title>
+        <description><![CDATA[A Modern Education]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 09:38:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future of Learning, Networked Society - Ericsson]]></title>
+            <description><![CDATA[<article><h1>The Future of Learning, Networked Society - Ericsson</h1><p>Learn more at http://www.ericsson.com/networkedsociety Can ICT redefine the way we learn in the Networked Society? Technology has enabled us to interact, innovate and share in whole new ways. This dynamic shift in mindset is creating profound change throughout our society. The Future of Learning looks at one part of that change, the potential to redefine how we learn and educate.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=quYDkuD4dMU</link>
+            <guid isPermaLink="false">6eb295ba-20e1-49ab-a9c6-00d4f6fe77ef</guid>
+            <pubDate>Fri, 05 Aug 2016 09:38:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
