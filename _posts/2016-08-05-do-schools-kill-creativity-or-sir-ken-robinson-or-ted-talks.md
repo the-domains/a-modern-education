@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T12:45:31.533Z'
+datePublished: '2016-08-05T12:47:16.491Z'
 sourcePath: >-
   _posts/2016-08-05-do-schools-kill-creativity-or-sir-ken-robinson-or-ted-talks.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=iG9CE55wbtY'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/TEDtalksDirector'
     avatar: {}
 via: {}
-dateModified: '2016-08-05T12:45:30.547Z'
+dateModified: '2016-08-05T12:47:15.620Z'
 title: Do Schools Kill Creativity?
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=iG9CE55wbtY&feature=applinks'
@@ -64,13 +64,7 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: >-
-  Sir Ken Robinson makes an entertaining and profoundly moving case for creating
-  an education system that nurtures (rather than undermines) creativity.
-  TEDTalks is a daily video podcast of the best talks and performances from the
-  TED Conference, where the world's leading thinkers and doers are invited to
-  give the talk of their lives in 18 minutes -- including speakers such as Jill
-  Bolte Taylor, Sir Ken Robinson, Hans Rosling, Al Gore and Arthur Benjamin.
+description: ''
 inLanguage: en
 starred: false
 inFeed: true
@@ -80,4 +74,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+Do Schools Kill Creativity?
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiG9CE55wbtY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiG9CE55wbtY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiG9CE55wbtY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
