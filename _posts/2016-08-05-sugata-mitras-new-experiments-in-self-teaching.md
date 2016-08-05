@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T12:45:48.641Z'
+datePublished: '2016-08-05T12:47:55.023Z'
 sourcePath: _posts/2016-08-05-sugata-mitras-new-experiments-in-self-teaching.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=dk60sYrU2RU'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/TEDtalksDirector'
     avatar: {}
 via: {}
-dateModified: '2016-08-05T12:45:47.502Z'
+dateModified: '2016-08-05T12:47:54.277Z'
 title: Experiments in self-teaching
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=dk60sYrU2RU&feature=applinks'
@@ -63,12 +63,7 @@ publisher:
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: >-
-  Indian education scientist Sugata Mitra tackles one of the greatest problems
-  of education -- the best teachers and schools don't exist where they're needed
-  most. In a series of real-life experiments from New Delhi to South Africa to
-  Italy, he gave kids self-supervised access to the web and saw results that
-  could revolutionize how we think about teaching.
+description: ''
 inLanguage: en
 starred: false
 inFeed: true
@@ -78,4 +73,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
+Experiments in self-teaching
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fdk60sYrU2RU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddk60sYrU2RU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fdk60sYrU2RU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
