@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T12:44:49.972Z'
+datePublished: '2016-08-05T12:47:27.214Z'
 sourcePath: _posts/2016-08-05-lets-use-video-to-reinvent-education-salman-khan.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=DC58z4N0IWw'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/TEDEducation'
     avatar: {}
 via: {}
-dateModified: '2016-08-05T12:44:49.068Z'
+dateModified: '2016-08-05T12:47:26.080Z'
 title: Sal Khan founder of Khan Academy
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=DC58z4N0IWw&feature=applinks'
@@ -64,8 +64,6 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  View full lesson:
-  http://ed.ted.com/lessons/let-s-use-video-to-reinvent-education-salman-khan
   Salman Khan talks about how and why he created the remarkable Khan Academy, a
   carefully structured series of educational videos offering complete curricula
   in math and, now, other subjects.
