@@ -12,5 +12,9 @@ color:
     - '#9768D1'
 layout_spectrum: 0.9762320031877607
 name: A Modern Education
+navigation:
+  - name: About Me
+    id: a9ee1417-5abe-44df-823a-2678b4324bde
+    type: content
 title: A Modern Education
 description: the future of education
