@@ -1,4 +1,4 @@
-typography_spectrum: 0.8165334090590477
+typography_spectrum: 0.4927385638002306
 color:
   brandStrength: 0.12460945593193173
   lightness: 0.8216380316298455
@@ -10,7 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.4325513946823776
+layout_spectrum: 0.8592575062066317
 name: A Modern Education
 navigation:
   - name: About Me
